@@ -4,6 +4,7 @@ permalink: /login-troubleshooting/get-help/get-help-from-your-school/
 description: ""
 third_nav_title: Get Help
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Get Help from your School</h1>
 
@@ -176,9 +177,9 @@ Others:
 <td>Anglo-Chinese School (Independent)</td>
 <td>
 Tel: 68700355
-<br>Email: lms-admin@acsindep.edu.sg
+<br>Email: helpdesk@acsindep.edu.sg
 <br>
-Others: <a href="https://www.acsindep.moe.edu.sg/for-students/singapore-student-learning-space/">More Info</a>
+Others: 
 
 
 </td>
@@ -198,9 +199,9 @@ Others: <a href="https://go.gov.sg/acsjsls">https://go.gov.sg/acsjsls</a>
 <td>Anglo-Chinese School (Primary)</td>
 <td>
 Tel: 62501633
-<br>Email: vedavalli@schools.gov.sg
+<br>Email: 
 <br>
-Others:
+	Others: <a href="https://go.gov.sg/acspict-accountreset">Form SG </a>
 
 
 </td>
@@ -1156,7 +1157,7 @@ Others: <a href="https://form.gov.sg/5d65d57cd6754c0012d6d775">Form SG</a>
 Tel: 68343100
 <br>Email: admin_ferngreen_ps@moe.edu.sg
 <br>
-Others: 
+	Others: <a href="https://go.gov.sg/fgps-online-based-helpline">Form SG</a>
 
 
 </td>
@@ -1209,7 +1210,7 @@ Others:
 <td>Fuchun Secondary School</td>
 <td>
 Tel: 63681984
-<br>Email: ict@fcs.edu.sg
+<br>Email: fcss@moe.edu.sg
 <br>
 Others:
 
@@ -1220,7 +1221,7 @@ Others:
 <td>Fuhua Primary School</td>
 <td>
 Tel: 65624370
-<br>Email: sls@fuhuapri.edu.sg
+<br>Email:
 <br>
 Others: <a href="https://go.gov.sg/fhpssls">Form SG</a>
 
@@ -1344,18 +1345,6 @@ Tel: 63666158
 <br>Email:
 <br>
 Others: <a href="http://go.gov.sg/slsgwps">Google Form</a>
-
-
-</td>
-</tr>
-<tr>
-<td>Guangyang Primary School</td>
-<td>
-Tel: 62508713
-<br>Email: gypspd@yahoo.com
-<br>
-Others:
-
 
 </td>
 </tr>
@@ -1560,8 +1549,8 @@ Others:
 <tr>
 <td>Junyuan Secondary School</td>
 <td>
-Tel: 65873683/65873684
-<br>Email: admin@junyuansec.edu.sg
+Tel: 62858733
+<br>Email: junyuan_ss@moe.edu.sg
 <br>
 Others: <a href="https://go.gov.sg/jysls">Form SG</a>
 
@@ -1759,7 +1748,7 @@ Others: <a href="https://go.gov.sg/lakesidesls">Form SG</a>
 <td>Lianhua Primary School</td>
 <td>
 Tel: 65639502
-<br>Email: ma_su_lin@moe.edu.sg
+<br>Email: lianhua_ps@moe.edu.sg
 <br>
 Others:
 
@@ -1957,7 +1946,7 @@ Others:
 <td>Nan Chiau High School</td>
 <td>
 Tel: 64897971
-<br>Email: support@nchs.edu.sg
+<br>Email: nchs@moe.edu.sg
 <br>
 Others:
 
@@ -2204,6 +2193,19 @@ Others:
 
 </td>
 </tr>
+
+<tr>
+<td>Northshore Primary School</td>
+<td>
+Tel: 62026490
+<br>Email: 
+<br>
+Others:
+
+
+</td>
+</tr>
+	
 <tr>
 <td>NUS High School of Mathematics and Science</td>
 <td>
@@ -2329,9 +2331,9 @@ Others: Whatsapp 9046 0803
 <td>Paya Lebar Methodist Girls' School (Secondary)</td>
 <td>
 Tel: 62816606
-<br>Email: lee_wei_te@plmgss.edu.sg
+<br>Email: it_support@plmgss.edu.sg
 <br>
-Others: <a href="https://docs.google.com/forms/d/17D1eldhpMb7m0MsAcUfTOoooZnBBS4ZlEwM2f4rTUOA/viewform?edit_requested=true">Google Form</a>
+Others: <a href="https://form.gov.sg/5e4344864c1a3300115e873c">FormSG</a>
 
 
 </td>
@@ -2516,9 +2518,9 @@ Others:
 <td>Punggol View Primary School</td>
 <td>
 Tel: 65701588
-<br>Email: pang_teng_yen@moe.edu.sg
+<br>Email:
 <br>
-Others: iskandar_abdul_hamid@moe.edu.sg
+Others: Submit a request for unlocking of account or password reset (Refer to School Website) - (https://www.punggolviewpri.moe.edu.sg/ez-links/sls/)
 
 
 </td>
@@ -3408,9 +3410,9 @@ Others: <a href="https://go.gov.sg/wpssls">Form SG</a>
 <td>West Spring Secondary School</td>
 <td>
 Tel: 68920369
-<br>Email: xie_shuxian_shelia@moe.edu.sg
+<br>Email: westspringss@moe.edu.sg
 <br>
-Others: <a href="https://westspringsec.moe.edu.sg/homebasedlearning">School Website</a>
+Others: <a href="https://go.gov.sg/wsssicthelp">Google Form</a>
 
 
 </td>

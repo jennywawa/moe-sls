@@ -3,12 +3,13 @@ title: (B2) Embed Whitelisted Websites
 permalink: /teacher-user-guide/discover/embed-whitelisted-websites/
 description: ""
 third_nav_title: Discover
+variant: markdown
 ---
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
-<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a target="_blank" href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.</p>
+<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, explicit parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.</p>
 <p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.</p>
-<p><u>Note</u>: If you are unable to embed a website, the website may have been <a target="_blank" href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/">removed from whitelisting</a>.</p>
+<p><u>Note</u>: If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>.</p>
 <h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
 <hr>
 <p>To embed a whitelisted website using site URL:</p>
@@ -21,7 +22,7 @@ third_nav_title: Discover
 <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
 <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
-<a target="_blank" href="/images/2Teacher/D-Whitelisted.png"><img alt="Whitelisted" src="/images/2Teacher/D-Whitelisted.png"></a>
+<a href="/images/2Teacher/D-Whitelisted.png" target="_blank"><img src="/images/2Teacher/D-Whitelisted.png" alt="Whitelisted"></a>
 <table>
 <thead>
 <tr>
@@ -81,14 +82,7 @@ https://www.armoredpenguin.com
 https://www.artgallery.nsw.gov.au/collection
 </td>
 </tr>
-<!--        
-<tr><td><strong>AWW App</strong></td>
-<td>Collaboration Tool</td>
-<td>
-https://awwapp.com
-</td>
-</tr>
--->
+
 <tr><td><strong>Baamboozle</strong></td>
 <td>Educational Games and Tools</td>
 <td>
@@ -178,10 +172,6 @@ https://www.8world.com
 <br>
 https://www.channelnewsasia.com
 <br>
-https://channelnewsasia.com
-<br>
-https://www.seithi.mediacorp.sg
-<br>
 https://seithi.mediacorp.sg
 </td>
 </tr>
@@ -197,7 +187,7 @@ https://www.checkfirst.gov.sg
 https://chemnotcheem.com
 </td>
 </tr>
-<tr><td><strong>Chemistry WebAR <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Chemistry WebAR</strong></td>
 <td>Augmented Reality Tool</td>
 <td>
 https://sites.google.com/view/chem-ar
@@ -235,18 +225,17 @@ https://classpad.net
 https://www.classpoint.app
 </td>
 </tr>
-<tr><td><strong>Classroom Screen</strong></td>
-<td>Educational Tools and Resources</td>
-<td>
-https://app.classroomscreen.com
-<br>
-https://classroomscreen.com
-</td>
-</tr>
+
 <tr><td><strong>CNN</strong></td>
 <td>News Resources</td>
 <td>
 https://edition.cnn.com
+</td>
+</tr>
+<tr><td><strong>CodeCheck</strong></td>
+<td>Coding Platform</td>
+<td>
+https://codecheck.io
 </td>
 </tr>
 <tr><td><strong>Coggle</strong></td>
@@ -329,12 +318,7 @@ https://www.education.com
 https://www.elementari.com
 </td>
 </tr>
-<tr><td><strong>Elicit</strong></td>
-<td>AI Tool</td>
-<td>
-https://elicit.org
-</td>
-</tr>
+
 <tr><td><strong>European Environment Agency</strong></td>
 <td>Resource site</td>
 <td>
@@ -353,10 +337,7 @@ https://experiments.withgoogle.com
 https://explaineverything.com
 <br>
 https://drive.explaineverything.com
-<!--
-<br>
-https://expl.ai
--->
+
 <br>
 https://whiteboard.explaineverything.com
 </td>
@@ -371,6 +352,12 @@ https://www.ezhishi.net
 <td>Interactive Content</td>
 <td>
 https://www.playfactile.com
+</td>
+</tr>
+<tr><td><strong>Falstad</strong></td>
+<td>Simulations</td>
+<td>
+https://www.falstad.com/circuit
 </td>
 </tr>
 <tr><td><strong>Flip</strong></td>
@@ -400,7 +387,7 @@ https://www.floopedu.com
 <tr><td><strong>Flourish Studio</strong></td>
 <td>Data Visualisation Tool</td>
 <td>
-https://flourish.studio
+https://public.flourish.studio
 </td>
 </tr>
 <tr><td><strong>Footprints-Science</strong></td>
@@ -421,10 +408,16 @@ https://framevr.io
 https://www.funbrain.com
 </td>
 </tr>
-<tr><td><strong>Gather <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Gather</strong></td>
 <td>Virtual Reality Tool</td>
 <td>
 https://app.gather.town
+</td>
+</tr>
+<tr><td><strong>Gimkit</strong></td>
+<td>Educational Games and Tools</td>
+<td>
+https://www.gimkit.com
 </td>
 </tr>
 <tr><td><strong>Glowscript</strong></td>
@@ -455,6 +448,12 @@ https://www.guggenheim.org/collection-online
 <td>Music Tool</td>
 <td>
 https://guitarflash3.com
+</td>
+</tr>
+<tr><td><strong>H5P</strong></td>
+<td>Content Authoring Tool</td>
+<td>
+https://tools.learnforlife.sg/h5psites
 </td>
 </tr>
 <tr><td><strong>Heyzine</strong></td>
@@ -529,6 +528,12 @@ https://www.iorad.com
 https://jamboard.google.com
 </td>
 </tr>
+<tr><td><strong>Javalab</strong></td>
+<td>Simulation Resource Site</td>
+<td>
+https://javalab.org/en
+</td>
+</tr>
 <tr><td><strong>Jeopardy Labs</strong></td>
 <td>Jeopardy Word Game</td>
 <td>
@@ -571,12 +576,7 @@ https://www.kialo-edu.com
 https://learn.genetics.utah.edu
 </td>
 </tr>
-<tr><td><strong>Linoit</strong></td>
-<td>Collaboration Tool</td>
-<td>
-https://www.linoit.com
-</td>
-</tr>
+
 <tr><td><strong>Makecode</strong></td>
 <td>Coding Platform</td>
 <td>
@@ -679,7 +679,7 @@ https://www.musicca.com
 <tr><td><strong>MyActiveSG</strong></td>
 <td>Resource site</td>
 <td>
-https://www.myactivesg.com
+https://www.activesgcircle.gov.sg
 </td>
 </tr>
 <tr><td><strong>National Council of Teachers of Mathematics</strong></td>
@@ -760,12 +760,7 @@ https://iwant2study.org
 https://www.opinionstage.com
 </td>
 </tr>
-<tr><td><strong>Ottodot</strong></td>
-<td>Gamefied Learning Tool</td>
-<td>
-https://platform.ottodot.com
-</td>
-</tr>
+
 <tr><td><strong>Parlay</strong></td>
 <td>Collaboration Tool</td>
 <td>
@@ -796,6 +791,12 @@ https://tracker.physlets.org/trackerJS
 <td>Poll</td>
 <td>
 https://pigeonhole.at
+</td>
+</tr>
+<tr><td><strong>Pin It</strong></td>
+<td>Learn Chinese Characters Tool</td>
+<td>
+https://pinit-nus.com <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Pixlr</strong></td>
@@ -892,7 +893,7 @@ https://web.seesaw.me
 https://app.seesaw.me
 </td>
 </tr>
-<tr><td><strong>Semantris <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Semantris</strong></td>
 <td>Word Association Game</td>
 <td>
 https://research.google.com/semantris
@@ -928,7 +929,7 @@ https://www.scdf.gov.sg
 https://www.police.gov.sg
 </td>
 </tr>
-<tr><td><strong>SG101 <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>SG101</strong></td>
 <td>Resource site</td>
 <td>
 https://www.sg101.gov.sg
@@ -952,7 +953,7 @@ https://b.socrative.com
 https://songcraft.io
 </td>
 </tr>
-<tr><td><strong>Soundtrap <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Soundtrap</strong></td>
 <td>Audio Resources</td>
 <td>
 https://www.soundtrap.com
@@ -988,24 +989,19 @@ https://stablediffusionweb.com
 https://storybird.com
 </td>
 </tr>
+<tr><td><strong>StoryJumper</strong></td>
+<td>Story Authoring Tool</td>
+<td>
+https://www.storyjumper.com
+</td>
+</tr>
 <tr><td><strong>Storyline Online</strong></td>
 <td>Video Resource Site</td>
 <td>
 https://storylineonline.net
 </td>
 </tr>
-<!--        
-<tr><td><strong>Streamlit</strong></td>
-<td>Web App Script Tool</td>
-<td>
-https://metacog.streamlit.app
-<br>
-https://student.streamlitapp.com/?embedded=true
-<br>
-https://teacher.streamlitapp.com/?embedded=true
-</td>
-</tr>
--->        
+        
 <tr><td><strong>Super Teacher Tools</strong></td>
 <td>Interactive Content</td>
 <td>
@@ -1216,12 +1212,7 @@ https://wordwall.net
 https://www.wordwall.net
 </td>
 </tr>
-<tr><td><strong>Writeabout</strong></td>
-<td>Writing Tool</td>
-<td>
-https://www.writeabout.com
-</td>
-</tr>
+
 <tr><td><strong>Ximalaya</strong></td>
 <td>Audio Resources</td>
 <td>
@@ -1248,10 +1239,7 @@ https://zbschools.sg
 https://www.zbschools.sg
 </td>
 </tr>
-<!--
-<font color="#FBBC04">NEW!</font>
-//represents new item
--->
+
 </tbody>
 </table>
             
@@ -1317,7 +1305,7 @@ https://www.bandlab.com
 https://www.canva.com
 </td>
 </tr>
-<tr><td><strong>CK12 Simulations</strong> </td>
+<tr><td><strong>CK12 Simulations</strong></td>
 <td>Simulations</td>
 <td>
 https://www.ck12.org
@@ -1351,7 +1339,7 @@ https://student.desmos.com
 https://teacher.desmos.com
 </td>
 </tr>
-<tr><td><strong>Dialogflow</strong> </td>
+<tr><td><strong>Dialogflow</strong></td>
 <td>Chatbot</td>
 <td>
 https://console.dialogflow.com
@@ -1369,7 +1357,13 @@ https://edpuzzle.com
 https://video.eko.com
 </td>
 </tr>
-<tr><td><strong>Flip</strong> </td>
+<tr><td><strong>Figma</strong></td>
+<td>Collaboration Tool</td>
+<td>
+https://www.figma.com
+</td>
+</tr>
+<tr><td><strong>Flip</strong></td>
 <td>Video Discussion Tool</td>
 <td>
 https://flipgrid.com
@@ -1377,7 +1371,7 @@ https://flipgrid.com
 https://flip.com
 </td>
 </tr>
-<tr><td><strong>Flipsnack</strong> </td>
+<tr><td><strong>Flipsnack</strong></td>
 <td>Flipbook Tool</td>
 <td>
 https://cdn.flipsnack.com
@@ -1395,20 +1389,20 @@ https://form.gov.sg
 https://www.gamestolearnenglish.com
 </td>
 </tr>
-<tr><td><strong>Gamma <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Gamma</strong></td>
 <td>Presentation Tool</td>
 <td>
 https://gamma.app
 </td>
 </tr>
-<tr><td><strong>Gapminder</strong> </td>
+<tr><td><strong>Gapminder</strong></td>
 <td>Data Visualisation Tool</td>
 <td>
 https://www.gapminder.org
 </td>
 </tr>
-<tr><td><strong>Genially</strong> </td>
-<td>Interactive Content Authoring Platform</td>
+<tr><td><strong>Genially</strong></td>
+<td>Content Authoring Tool</td>
 <td>
 https://view.genial.ly
 </td>
@@ -1429,7 +1423,7 @@ https://docs.google.com
 https://docs.google.com/document
 </td>
 </tr>
-<tr><td><strong>Google Drawings</strong> </td>
+<tr><td><strong>Google Drawings</strong></td>
 <td>Productivity Tool</td>
 <td>
 https://docs.google.com/drawings
@@ -1467,6 +1461,12 @@ https://docs.google.com/spreadsheets
 https://docs.google.com/presentation
 </td>
 </tr>
+<tr><td><strong>H5P</strong></td>
+<td>Interactive Content Authoring Tool</td>
+<td>
+https://ri-etd.h5p.com <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>HeyHi</strong></td>
 <td>Worksheet and Meeting Tool</td>
 <td>
@@ -1477,6 +1477,12 @@ https://www.heyhi.sg
 <td>Jigsaw Tool</td>
 <td>
 https://www.jigsawplanet.com
+</td>
+</tr>
+<tr><td><strong>Kami</strong></td>
+<td>Collaboration Tool</td>
+<td>
+https://kami.app
 </td>
 </tr>
 <tr><td><strong>MeWatch</strong> </td>
@@ -1525,6 +1531,12 @@ https://authoring.concord.org
 https://lab.concord.org
 </td>
 </tr>
+<tr><td><strong>Mural </strong></td>
+<td>Digital Whiteboard</td>
+<td>
+https://app.mural.co <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>Nearpod</strong></td>
 <td>Integrated Teaching Tool</td>
 <td>
@@ -1545,7 +1557,7 @@ https://iwant2study.org
 https://padlet.com
 <br>
 <em>
-(To whitelist your school's padlet.org site, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>.)
+(To whitelist your school's padlet.org site, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>.)
 </em>  
 <br>
 https://acjc.padlet.org
@@ -1561,6 +1573,8 @@ https://andersonps.padlet.org
 https://asrjc.padlet.org
 <br>
 https://assumptionenglish.padlet.org
+<br>
+https://bartleysecondaryschool.padlet.org
 <br>
 https://beattysecondary.padlet.org
 <br>
@@ -1590,9 +1604,15 @@ https://chr.padlet.org
 <br>
 https://corporationpri.padlet.org
 <br>
+https://crescentgirls.padlet.org
+<br>
+https://ctss.padlet.org
+<br>
 https://damaisecondary.padlet.org
 <br>
 https://dlsssg.padlet.org
+<br>
+https://dmps.padlet.org
 <br>
 https://dunmanhigh.padlet.org
 <br>
@@ -1614,6 +1634,8 @@ https://greenridgesecondary.padlet.org
 <br>
 https://henryparkprimary.padlet.org
 <br>
+https://hsc7031.padlet.org
+<br>
 https://huaminprimarype.padlet.org
 <br>
 https://huayi.padlet.org
@@ -1628,6 +1650,8 @@ https://jvs.padlet.org
 <br>
 https://jwps.padlet.org
 <br>
+https://kcpss.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://kcs.padlet.org
 <br>
 https://kemingprimaryschool.padlet.org
@@ -1640,6 +1664,8 @@ https://meetohschool.padlet.org
 <br>
 https://mfss.padlet.org
 <br>
+https://mgss.padlet.org 
+<br>
 https://moelc.padlet.org
 <br>
 https://msh.padlet.org
@@ -1647,6 +1673,8 @@ https://msh.padlet.org
 https://nbss.padlet.org
 <br>
 https://ncpri.padlet.org
+<br>
+https://nie.padlet.org 
 <br>
 https://northlandsec.padlet.org
 <br>
@@ -1660,11 +1688,19 @@ https://opss.padlet.org
 <br>
 https://pasirrissec.padlet.org
 <br>
+https://pathlightsingapore.padlet.org
+<br>
+https://pcss.padlet.org
+<br>
 https://plmgsp.padlet.org
 <br>
 https://punggolpri.padlet.org
 <br>
 https://punggolsecschool.padlet.org
+<br>
+https://rafflesgirlsschool.padlet.org 
+<br>
+https://riedu.padlet.org
 <br>
 https://riversidesec.padlet.org
 <br>
@@ -1706,6 +1742,8 @@ https://xnpsict.padlet.org
 <br>
 https://yijc.padlet.org
 <br>
+https://yss.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://yuanchingsec.padlet.org
 <br>
 https://yyss.padlet.org
@@ -1713,6 +1751,12 @@ https://yyss.padlet.org
 https://zhenghuasecondary.padlet.org
 <br>
 https://zhss.padlet.org
+</td>
+</tr>
+<tr><td><strong>Panopto</strong></td>
+<td>Video Resource Site</td>
+<td>
+https://ri.ap.panopto.com
 </td>
 </tr>
 <tr><td><strong>PhET Simulations</strong></td>
@@ -1746,8 +1790,6 @@ https://embed.polleverywhere.com
 <tr><td><strong>Powtoon</strong> </td>
 <td>Video and Presentation Tool</td>
 <td>
-https://powtoon.com
-<br>
 https://www.powtoon.com
 </td>
 </tr>
@@ -1797,12 +1839,7 @@ https://wall.sli.do
 https://soundcloud.com
 </td>
 </tr>
-<tr><td><strong>Spiral</strong></td>
-<td>Integrated Teaching Tool</td>
-<td>
-https://spiral.ac
-</td>
-</tr>
+
 <tr><td><strong>Stornaway.io</strong></td>
 <td>Interactive Storytelling Tool</td>
 <td>
@@ -1850,12 +1887,10 @@ https://www.ventusky.com
 <tr><td><strong>Vidyard</strong></td>
 <td>Online Video Tool</td>
 <td>
-https://play.vidyard.com
-<br>
+
 https://share.vidyard.com
 </td>
 </tr>
-<!--
 <tr><td><strong>Vimeo</strong></td>
 <td>Online Video Tool</td>
 <td>
@@ -1864,7 +1899,6 @@ https://player.vimeo.com
 https://vimeo.com
 </td>
 </tr>
--->
 <tr><td><strong>Wakelet</strong> </td>
 <td>Resource Curation Tool</td>
 <td>
@@ -1883,4 +1917,4 @@ https://zoom.us
 </table>
 <h2 class="section-title">Request for Websites to be Whitelisted</h2>
 <hr>
-<p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p>
+<p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p></ol>

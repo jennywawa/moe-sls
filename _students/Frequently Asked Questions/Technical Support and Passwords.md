@@ -4,6 +4,7 @@ permalink: /students/frequently-asked-questions/technical-support-and-passwords/
 description: ""
 third_nav_title: Frequently Asked Questions
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="technical-support-and-passwords">Technical Support and Passwords</h1>
 <h2 id="overview-of-sls-system">Overview of the SLS System</h2>
@@ -22,7 +23,7 @@ image: /images/FaviconLight.png
 <li><p><strong>What are the technical requirements for devices to access the SLS?</strong></p>
 <p>  The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.</p>
 <p>  Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.</p>
-<p>  The recommended operating systems and browsers' requirements as at 7 June 2023 are as follows:</p>
+<p>  The recommended operating systems and browsers' requirements as at 6 December 2023 are as follows:</p>
 </li>
 </ol>
 <table>
@@ -35,27 +36,27 @@ image: /images/FaviconLight.png
 <tbody>
 <tr>
 <td>Microsoft Windows 10</td>
-<td>Google Chrome 92 and later<br>Microsoft Edge 92 and later</td>
+<td>Google Chrome 96 and later<br>Microsoft Edge 96 and later</td>
 </tr>
 <tr>
 <td>Mac OS 10.15 and later</td>
-<td>Safari 14 and later<br>            Google Chrome 92 and later</td>
+<td>Safari 15 and later<br>            Google Chrome 96 and later</td>
 </tr>
 <tr>
-<td>iPadOS 14 and later</td>
-<td>Safari 14 and later<br>                       Google Chrome 92 and later</td>
+<td>iPadOS 15 and later</td>
+<td>Safari 15 and later<br>                       Google Chrome 96 and later</td>
 </tr>
 <tr>
-<td>iOS 14 and later</td>
-<td>Safari 14 and later<br>                          Google Chrome 92 and later</td>
+<td>iOS 15 and later</td>
+<td>Safari 15 and later<br>                          Google Chrome 96 and later</td>
 </tr>
 <tr>
 <td>Android 10 and later</td>
-<td>Google Chrome 92 and later</td>
+<td>Google Chrome 96 and later</td>
 </tr>
 <tr>
-<td>ChromeOS 110 and later</td>
-<td>Google Chrome 110 and later</td>
+<td>ChromeOS 114 and later</td>
+<td>Google Chrome 114 and later</td>
 </tr>
 </tbody>
 </table>
@@ -63,7 +64,7 @@ image: /images/FaviconLight.png
 <ol>
 <li><strong>Who can users contact for technical support?</strong></li>
 </ol>
-<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a>.</p>
+<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/login-with-mims-student/">Login Self-Help for Students</a>.</p>
 <ol>
 <li><strong>Will students need additional hardware / internet subscription to access the SLS?</strong></li>
 </ol>
@@ -72,7 +73,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li><p><strong>What can students do if they forget their passwords?</strong></p>
-<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
+<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/login-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
 <p> There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.</p>
 <p> Here is a poster for students on how to troubleshoot login issues.</p>
 </li>

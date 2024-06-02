@@ -37,6 +37,8 @@ collections:
       - Assess/(B3) View and Respond to Teacher Comments.md
       - Assess/(C1) About Assessments.md
       - Assess/(D1) About Feedback Assistant Mathematics.md
+      - Assess/(D2) About Language Feedback Assistant for English.md
+      - Assess/(D3) About Short Answer Feedback Assistant.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/About Assignments.md
@@ -67,10 +69,10 @@ collections:
       - Discover/(A2) Search for Self Study Resources.md
       - Discover/(A3) Attempt Self Study Resources.md
       - Discover/(B1) Access App Library.md
-      - Gamify/(A1) Navigate a Gamified Assignment (New).md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification.md
+      - Gamify/(A1) Navigate a Gamified Assignment (New).md
       - Gamify/(A2) Attempt a Gamified Assignment.md
       - Gamify/(B1) Check Progress on Leaderboard.md
       - Notify/.keep
@@ -98,7 +100,7 @@ collections:
       - Plan/(A2) Create a New Event.md
       - Self Study/.keep
       - Self Study/Self Study.md
-      - Self Study/About Adaptive Learning System (ALS).md
+      - Self Study/About Adaptive Learning System.md
       - Self Study/(A1) Access Adaptive Learning System.md
       - Self Study/(B1,1) Annotate Text within Activities.md
       - Self Study/(B1,2) Add Notes to Images.md
