@@ -703,7 +703,7 @@ Others:
 <tr>
 <td>CHIJ St. Nicholas Girls' School</td>
 <td>
-Tel: 63541839(Secondary Section),64549698(Primary Section)
+Tel: 63541839(Secondary Section), 64549698(Primary Section)
 <br>Email:
 <br>
 Others:
@@ -770,9 +770,9 @@ Others:
 <td>Chua Chu Kang Secondary School</td>
 <td>
 Tel: 89408022
-<br>Email: support@cckss.edu.sg
+<br>Email: cckss@moe.edu.sg
 <br>
-Others: <a href="https://chuachukangsec-moe-edu-sg-admin.cwp.sg/announcement/sls-school-based-helpline">School Website</a>
+	Others: <a href="https://www.chuachukangsec.moe.edu.sg/students/school-based-helpline">School-based Helpline</a>
 
 
 </td>
@@ -937,7 +937,7 @@ Others:
 Tel: 67667675
 <br>Email:
 <br>
-Others: (Recommended) <a href="https://form.gov.sg/#!/5e3dfc284bfa3c0011351632">Form SG</a>
+Others: <a href="https://form.gov.sg/#!/5e3dfc284bfa3c0011351632">Form SG</a>
 
 
 </td>
@@ -1064,17 +1064,6 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Eunos Primary School</td>
-<td>
-Tel: 67463336/97732961
-<br>Email: eunos_ps@moe.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Evergreen Primary School</td>
 <td>
 Tel: 63687705
@@ -1114,17 +1103,6 @@ Tel: 67788702
 <br>Email: lee_yew_ming_a@moe.edu.sg
 <br>
 Others: Call the General Office from 8 a.m. to 3 p.m. for assistance.
-
-
-</td>
-</tr>
-<tr>
-<td>Fajar Secondary School</td>
-<td>
-Tel: 67691491
-<br>Email:
-<br>
-Others:
 
 
 </td>
@@ -1185,7 +1163,7 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Frontier Primary Schoo</td>
+<td>Frontier Primary School</td>
 <td>
 Tel: 65789555 ext.310
 <br>Email: nur_aisha_idris@schools.gov.sg, mohammed_nidzam_zakariah@schools.gov.sg
@@ -1245,7 +1223,7 @@ Others:
 Tel: 64717451
 <br>Email: gesps@moe.edu.sg
 <br>
-Others: http://ganengsengpri.moe.edu.sg/
+Others: <a href="http://ganengsengpri.moe.edu.sg/">School Website</a>
 
 
 </td>
@@ -1803,9 +1781,9 @@ Others: iCON emails of teachers (Primary section)
 <td>Marsiling Primary School</td>
 <td>
 Tel: 62696193
-<br>Email: chua_ban_hwee_jasper@schools.gov.sg
+<br>Email: chua_ban_hwee_jasper@schools.gov.sg; siti_fatimah_bt_muhammad@schools.gov.sg; ang_yew_leong@schools.gov.sg
 <br>
-Others: siti_fatimah_bt_muhammad@schools.gov.sg; ang_yew_leong@schools.gov.sg
+Others:
 
 
 </td>
@@ -1860,7 +1838,7 @@ Others:
 Tel: 64893326
 <br>Email: 
 <br>
-Others: <a href="https://meetoh.moe.edu.sg/for-students/mee-tohians-self-directed-learners">More Info</a>
+Others: <a href="https://meetoh.moe.edu.sg/for-students/mee-tohians-self-directed-learners">School Website</a>
 
 
 </td>
@@ -2416,17 +2394,6 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Ping Yi Secondary School</td>
-<td>
-Tel: 64489580
-<br>Email: pyss@moe.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Pioneer Primary School</td>
 <td>
 Tel: 67932397
@@ -2520,7 +2487,7 @@ Others:
 Tel: 65701588
 <br>Email:
 <br>
-Others: Submit a request for unlocking of account or password reset (Refer to School Website) - (https://www.punggolviewpri.moe.edu.sg/ez-links/sls/)
+	Others: <a href="https://www.punggolviewpri.moe.edu.sg/ez-links/sls/">School Website</a>
 
 
 </td>
@@ -2564,7 +2531,7 @@ Others:
 Tel: 64741055
 <br>Email: qtss@moe.edu.sg
 <br>
-Others: Submit a request for unlocking of account or password reset <a href="https://form.gov.sg/5c33056e5bb1af0017756470">here</a>
+Others: <a href="https://form.gov.sg/5c33056e5bb1af0017756470">Form SG</a>
 
 
 </td>
@@ -2771,7 +2738,7 @@ Others:
 <td>Seng Kang Primary School</td>
 <td>
 Tel: 63840809
-<br>Email: mohammed_azhar_mohd_shariff@schools.gov.sg,skps@moe.edu.sg
+<br>Email: mohammed_azhar_mohd_shariff@schools.gov.sg, skps@moe.edu.sg
 <br>
 Others: <a href="http://tinyurl.com/SLS-Unlock-Account-2019">Form SG</a>
 
@@ -2815,7 +2782,7 @@ Others:
 <td>Serangoon Secondary School</td>
 <td>
 Tel: 63851589
-<br>Email: chan_chee_hoe_A@moe.edu.sg
+<br>Email: muhammad_imran_samat@moe.edu.sg
 <br>
 Others:
 
@@ -2980,9 +2947,9 @@ Others:
 <td>St. Anthony's Primary School</td>
 <td>
 Tel: 65690822
-<br>Email: lim_suan_chu@moe.edu.sg
+<br>Email: lim_suan_chu@moe.edu.sg; kiliammal_kathamuthu@moe.edu.sg
 <br>
-Others: Email kiliammal_kathamuthu@moe.edu.sg
+Others:
 
 
 </td>
@@ -3098,17 +3065,6 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Stamford Primary School</td>
-<td>
-Tel: 62945074
-<br>Email: 
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Swiss Cottage Secondary School</td>
 <td>
 Tel: 66319620/65637173
@@ -3157,17 +3113,6 @@ Others:
 <td>
 Tel: 67835423/81265620
 <br>Email: neo_shufen@moe.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
-<td>Tanglin Secondary School</td>
-<td>
-Tel: 64248200
-<br>Email: tanglin_ss@moe.edu.sg
 <br>
 Others:
 
@@ -3241,17 +3186,6 @@ Others: <a href="https://go.gov.sg/twpshelpline">Form SG</a>
 </td>
 </tr>
 <tr>
-<td>Teck Whye Secondary School</td>
-<td>
-Tel: 92256525
-<br>Email: HBL_helpdesk@twss.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Telok Kurau Primary School</td>
 <td>
 Tel: 62441600
@@ -3279,8 +3213,7 @@ Others:
 Tel: 64438134
 <br>Email: lee_sheng_jie_fabian@schools.gov.sg
 <br>
-
-Upcoming E-learning Days: 19 May 2021 to 27 May 2021
+Others:
 
 
 </td>
@@ -3684,10 +3617,10 @@ Others:
 <tr>
 <td>Yu Neng Primary School</td>
 <td>
-Tel: 64490121 ext.176
-<br>Email: 
+Tel: 98887677
+<br>Email: xu_qianhao@moe.edu.sg
 <br>
-Others: <a href="https://form.gov.sg/#!/5cca661ede59dc00172f7e26">Form SG</a>
+Others:
 
 
 </td>
@@ -3762,7 +3695,7 @@ Others:
 <td>Zhangde Primary School</td>
 <td>
 Tel: 62740357
-<br>Email: tan_kim_heng_felix@schools.gov.sg,lee_hui_fen_fiona@schools.gov.sg
+<br>Email: tan_kim_heng_felix@schools.gov.sg, lee_hui_fen_fiona@schools.gov.sg
 <br>
 Others:
 
